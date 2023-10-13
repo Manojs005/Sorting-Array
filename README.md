@@ -1,2 +1,2 @@
 # Sorting-Array
-sorting array  in descending using javascript
+sorting an array  in descending order using javascript
